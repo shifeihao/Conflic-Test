@@ -1,3 +1,3 @@
 # I am Alex.
 
-In Sprint 2, we successfully separated the platform’s logic into two distinct engines: Hunter and Advisor. However, through ongoing user research and feedback, we discovered that the boundary between these roles is often blurred in real-world B2B scenarios. Most sales professionals actually function as "Hybrid Sales" specialists—they are responsible for both aggressive lead generation (Hunting) and long-term relationship management (Advising).
+In Sprint 2, we successfully separated the platform’s logic into two distinct engines: Kevin and Alex. However, through ongoing user research and feedback, we discovered that the boundary between these roles is often blurred in real-world B2B scenarios. Most sales professionals actually function as "Hybrid Sales" specialists—they are responsible for both aggressive lead generation (Hunting) and long-term relationship management (Advising).
